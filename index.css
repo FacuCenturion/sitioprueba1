@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(48, 48, 48);
+}
+img{
+width: 180px;
+height: 240px;
+left: 92px;
+top: 125px;
+border-radius: 140px;
+}
+.fuente { color: white;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.FuenteBlanca{
+    color: white;
+}
+#blanco {
+    color: azure;
+}
